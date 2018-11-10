@@ -16,9 +16,9 @@ disqus:
     - project
 facebook: myfacebook
 twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/sarmishta-velury/
+github: https://github.com/sarmishtaVelury
+email: sarmishta.velury@djsce.edu.in
 authors:
   johndoe:
     name: John Doe

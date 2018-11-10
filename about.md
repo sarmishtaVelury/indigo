@@ -2,45 +2,23 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a CSE student with a passion for statistical learning and neural networks. I work as a Data Science intern at a startup. My work focuses on information extraction and user behavious modelling. My main research interests lie in vision and language. I have mainly worked on grounding and image captioning. Currently, my reading list consists mostly of visual dialog papers. I believe that mathematical knowledge and good coding skills are absolutely essential for computer scientists and engineers. I love challenges and exploring new interests. I am mostly self-taught. I like to keep busy, working on projects.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My hobbies include baking and paper quilling. I love writing and have begun collecting fountain pens. So far, my favourite is the Pilot Metropolitan collection. I want to expand my collection to include quills and hope to learn calligraphy some day.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<li>Languages: 
+<ul><li>Python</li> <li>C</li> <li>C++</li> <li>Java</li> <li>JavaScript</li> <li>SQL</li> <li>HTML5</li></ul>
+</li>
+<li>Databases: 
+<ul><li>SQL - MySQL, SQLite, PostgreSQL</li><li>NoSQL - MongoDB, Redis</li></ul>
+</li>
+<li>Libraries and frameworks: 
+<ul><li>Keras</li><li>TensorFlow</li><li>PyTorch</li><li>Scikit-learn</li><li>Pandas</li><li>OpenCV</li><li>NumPy</li><li>SciPy Seaborn</li><li>Bokeh</li><li>D3.js</li><li>Somoclu</li><li> Django</li><li>Bootstrap4</li><li>NodeJS</li></ul>
+<li>ArcGIS</li>
+<li>Git</li>
