@@ -19,6 +19,6 @@ layout: page
 <ul><li>SQL - MySQL, SQLite, PostgreSQL</li><li>NoSQL - MongoDB, Redis</li></ul>
 </li>
 <li>Libraries and frameworks: 
-<ul><li>Keras</li><li>TensorFlow</li><li>PyTorch</li><li>Scikit-learn</li><li>Pandas</li><li>OpenCV</li><li>NumPy</li><li>SciPy Seaborn</li><li>Bokeh</li><li>D3.js</li><li>Somoclu</li><li> Django</li><li>Bootstrap4</li><li>NodeJS</li></ul>
+<ul><li>Keras</li><li>TensorFlow</li><li>PyTorch</li><li>Scikit-learn</li><li>Pandas</li><li>OpenCV</li><li>NumPy</li><li>SciPy</li><li>Seaborn</li><li>Bokeh</li><li>D3.js</li><li>Somoclu</li><li> Django</li><li>Bootstrap4</li><li>NodeJS</li></ul>
 <li>ArcGIS</li>
 <li>Git</li>
