@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a CSE student with a passion for statistical learning and neural networks. I work as a Data Science intern at a startup. My work focuses on information extraction and user behavious modelling. My main research interests lie in vision and language. I have mainly worked on grounding and image captioning. Currently, my reading list consists mostly of visual dialog papers. I believe that mathematical knowledge and good coding skills are absolutely essential for computer scientists and engineers. I love challenges and exploring new interests. I am mostly self-taught. I like to keep busy, working on projects.</p>
+<p>I am a CSE student with a passion for statistical learning and neural networks. I work as a Data Science intern at Hashtag Loyalty. My work focuses on information extraction and user behavious modelling. My main research interests lie in vision and language. I have mainly worked on grounding and image captioning. Currently, my reading list consists mostly of visual dialog papers. I believe that mathematical knowledge and good coding skills are absolutely essential for computer scientists and engineers. I love challenges and exploring new interests. I am mostly self-taught and like to keep busy, working on projects.</p>
 
 <p>My hobbies include baking and paper quilling. I love writing and have begun collecting fountain pens. So far, my favourite is the Pilot Metropolitan collection. I want to expand my collection to include quills and hope to learn calligraphy some day.</p>
 
