@@ -1,12 +1,14 @@
 name: Sarmishta Velury
-bio: CSE undergrad, Vision and Language researcher, Data Sceince intern, Unicode
+bio: >-
+  CSE undergrad, Vision and Language researcher, Data Science intern, Unicode
   Mentor, Full Stack Web Dev
 description: A blog for my paper summaries.
 external-image: false
 picture: assets/images/sarmishta.jpg
 resume: true
 resume-external: true
-resume-url: https://docs.google.com/document/d/1ulklYearkOmAr16GwubF0sJgI3gHhNtd9bMywfoJNQw/edit?usp=sharing
+resume-url: >-
+  https://docs.google.com/document/d/1ulklYearkOmAr16GwubF0sJgI3gHhNtd9bMywfoJNQw/edit?usp=sharing
 your url: 'http://sarmishtaVelury.github.io'
 permalink: '/:title/'
 disqus:
@@ -14,24 +16,18 @@ disqus:
   categories:
     - blog
     - project
-facebook: myfacebook
-twitter: mytwitter
-linkedin: https://www.linkedin.com/in/sarmishta-velury/
-github: https://github.com/sarmishtaVelury
+linkedin: sarmishta-velury
+github: sarmishtaVelury
 email: sarmishta.velury@djsce.edu.in
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/sarmishta.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+  Sarmishta Velury:
+    name: Sarmishta Velury
+    bio: >-
+      CSE undergrad, Vision and Language researcher, Data Science intern,
+      Unicode Mentor, Full Stack Web Dev
     external-image: false
     picture: assets/images/james.jpg
-    twitter: jamesfoster
+    github: sarmishtaVelury
 width: normal
 projects: true
 about: true
